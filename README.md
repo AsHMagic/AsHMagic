@@ -1,4 +1,4 @@
-### AsHMagic 👋</h2>
+<h2 align="center">AsHMagic</h2>
 반가워요
 
 <!--
