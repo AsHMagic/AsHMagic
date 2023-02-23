@@ -1,6 +1,7 @@
 ## AsHMagic
 #### 프로그래밍 언어
 > Python
+> Minecraft Skript
 
 <!--
 **AsHMagic/AsHMagic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
