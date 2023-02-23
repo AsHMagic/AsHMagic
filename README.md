@@ -1,4 +1,4 @@
-<h2 align="center">AsHMagic</h2>
+AsHMagic
 반가워요
 
 <!--
