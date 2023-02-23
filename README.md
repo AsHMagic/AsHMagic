@@ -1,5 +1,6 @@
 ## AsHMagic
-반가워요
+#### 프로그래밍 언어
+> Python
 
 <!--
 **AsHMagic/AsHMagic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
