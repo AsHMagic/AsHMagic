@@ -2,7 +2,7 @@
 #### 프로그래밍 언어
 > Python
 
-> Minecraft Skript (기타)
+> Java Script
 
 
 **정보**
