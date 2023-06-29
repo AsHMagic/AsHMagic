@@ -1,8 +1,8 @@
 ## AsHMagic
-#### 프로그래밍 언어
-> Python
+#### 기술 스택
+> Language: Python, Java
 
-> Java Script
+> Design: Figma
 
 
 **정보**
