@@ -1,7 +1,6 @@
 ## AsHMagic
 #### 기술 스택
-> Language: Python![image](https://github.com/AsHMagic/AsHMagic/assets/84615219/71f16303-e74d-4f22-be6c-281a73e6f1ad)
-, Java
+> Language: <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>, Java
 
 > Design: Figma
 
